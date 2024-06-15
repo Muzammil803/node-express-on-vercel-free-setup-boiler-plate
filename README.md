@@ -87,8 +87,9 @@ This project demonstrates how to create a simple Express server and deploy it to
     - `builds`: Defines the build configuration for your project. In this case, it specifies that `index.js` should be built using the `@vercel/node` builder.
     - `routes`: Defines the routing rules. The provided rule routes all incoming requests to the root of the application.
 
-## Step 5: Deploy to Vercel OR Manually import and Deploy you repo on [https://vercel.com/dashboard]
-
+## Step 5: Deploy to Vercel 
+# Manually import and Deploy your repo on [https://vercel.com/dashboard]
+# OR
 1. Install the Vercel CLI globally if you haven't already:
     ```sh
     npm install -g vercel
