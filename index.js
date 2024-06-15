@@ -12,7 +12,7 @@ app.get('/', (req, res) => {
             <title>Simple Express Server</title>
         </head>
         <body>
-            <h1>Hello, <a href="https://github.com/Muzammil803" targer="__blank">Muzammil Shah</a>!</h1>
+            <h1>Hello, <a href="https://github.com/Muzammil803" target="__blank">Muzammil Shah</a>!</h1>
             <p>This is a simple HTML response from the Express server deployed on vercel.</p>
         </body>
         </html>
